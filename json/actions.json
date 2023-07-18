@@ -436,7 +436,7 @@
       "description": "Tutto su Informatica teorica",
       "name": "Informatica teorica",
       "website": "455107",
-      "professors": ["claudio.sacerdoticoen"],
+      "professors": ["fabio.zanasi"],
       "telegram": "infoteorica"
     }
   },
@@ -486,6 +486,16 @@
       "website": "422036",
       "professors": ["sabrina.scarito"],
       "telegram": "+DmlZ4Q31uTQ5YTE0"
+    }
+  },
+    "comp_linguaggi": {
+    "type": "course",
+    "data": {
+      "description": "Tutto su Complementi di linguaggi di programmazione",
+      "name": "Complementi di linguaggi di programmazione",
+      "website": "482040",
+      "professors": ["cosimo.laneve"],
+      "telegram": "complementilinguaggi"
     }
   }
 }
